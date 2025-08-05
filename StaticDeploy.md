@@ -59,7 +59,3 @@ Your site will be published at:
 ```
 https://your-username.github.io/your-repo-name
 ```
-<<<<<<< HEAD:StaticDeploy.md
----
-=======
->>>>>>> 5f6e5339734d6152e287819eb682fcea45e750f1:Guide.md
