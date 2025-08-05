@@ -1,9 +1,7 @@
 # ⚛️ Chapter 2: Deploying a React App (create-react-app)
 
 #### 🧠 Why Is This Different?
-```
 React apps are built using `JSX` and modern JavaScript. Before deployment, React needs to compile everything into plain HTML, CSS, and JS using a build process.
-```
 ## 🔧 Requirements
 
 - React app created using create-react-app(can be used with Vite too)
