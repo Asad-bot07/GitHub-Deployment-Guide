@@ -29,26 +29,24 @@ Open your terminal or command prompt, navigate to your project folder, and run:
 git init
 git add .
 git commit -m "Initial commit"
+```
+#### Step 2: Create a GitHub Repository
 
-# Step 2: Create a GitHub Repository
+- Go to [GitHub](https://github.com)
+- Click the + icon (top right) → New repository
+- Name your repository (e.g., my-portfolio)
+- Do not initialize with README or .gitignore
 
-Go to [GitHub](https://github.com)
-
-Click the + icon (top right) → New repository
-
-Name your repository (e.g., my-portfolio)
-
-Do not initialize with README or .gitignore
-
-# Step 3: Connect Your Local Repo to GitHub
-
+#### Step 3: Connect Your Local Repo to GitHub
 Replace the URL below with your own:
+
 ```
 git remote add origin https://github.com/your-username/your-repo-name.git
 git branch -M main
 git push -u origin main
 ```
-# Step 4: Enable GitHub Pages
+
+#### Step 4: Enable GitHub Pages
 
 - Open your repository on GitHub
 - Click Settings
@@ -56,7 +54,7 @@ git push -u origin main
 - Under Source, select main branch and /root
 - Click Save
 
-✅ Done!
+#### ✅ Done!
 Your site will be published at:
 ```
 https://your-username.github.io/your-repo-name
