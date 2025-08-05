@@ -8,6 +8,13 @@ We’ll cover two types of deployments:
 - **[Chapter 2](./ReactDeploy.md) :** Deploying a React App (using `gh-pages`)
 
 ---
+## 🛠 How to Use
+
+1. Clone this repo or open the `Markdown File`
+2. Follow the chapter relevant to your project
+3. Deploy your project using GitHub Pages
+---
+
 ## 🤝 Contributing
 
 Have an idea or found a bug?  
