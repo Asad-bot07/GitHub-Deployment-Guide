@@ -1,14 +1,3 @@
-# 📘 GitHub Pages Deployment Guide
-
-Welcome! This document will walk you through deploying your project to **GitHub Pages**, one of the easiest ways to host static websites directly from a GitHub repository.
-
-We’ll cover two types of deployments:
-
-- **Chapter 1:** Deploying a Basic Static Project (HTML/CSS/JS)
-- **Chapter 2:** Deploying a React App (using `gh-pages`)
-
----
-
 ## 📖 Chapter 1: Deploying a Static Website (HTML, CSS, JS)
 
 ### 🧠 What You Need to Know
